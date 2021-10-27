@@ -7,7 +7,7 @@ from pytube import YouTube
 
 
 
-bot = telebot.TeleBot('1670350833:AAHkXb37ajvmTecEDZtRp04FDkO0MdMnI1k')
+bot = telebot.TeleBot('YOUR TOKEN')
 
 video_url = ''
 
